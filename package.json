@@ -1,0 +1,15 @@
+{
+  "name": "desafios-typescript",
+  "version": "1.0.0",
+  "description": "Desafios TypeScript iniciantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "watch": "tsc --watch"
+  },
+  "author": "Rafael Schenkel",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
